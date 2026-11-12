@@ -10,7 +10,7 @@
 - **Front** : Vue 3 · React / Next.js · Tailwind CSS
 - **Back et données** : Django · MongoDB · n8n
 - **Jeux** : Unity · pygame · Pyxel
-- **Outils** : Git · VS Code · Vite
+- **Outils** : Git · VS Code · Vite · Claude code
 
 ### 🚀 Projets
 
